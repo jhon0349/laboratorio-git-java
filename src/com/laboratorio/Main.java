@@ -1,7 +1,14 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
+    	saludo();
+    }
+    public static void saludo () {
+    	System.out.printf("Hola a todos :)");
+  
+}
+=======
         imprimirValores();
     }
 
@@ -15,4 +22,5 @@ public class Main {
 
 
 
+>>>>>>> bdf91572c46352fcfbe11db5ffc26406cc281dea
 }
